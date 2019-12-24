@@ -41,6 +41,10 @@
                 <string>soundcloud</string>
                 <string>fb-messenger</string>
                 <string>instagram</string>
+                <string>wysafety</string>
+                <string>tluniversalaudit</string>
+                <string>tliloadplanner</string>
+                <string>tltreeaudit</string>
             </array>
         </config-file>
         
